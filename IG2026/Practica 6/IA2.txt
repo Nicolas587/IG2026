@@ -1,0 +1,10 @@
+Detalles de "Buena Práctica" incluidos:
+Semántica: Usé <strong> para dar énfasis y <em> para citas, lo cual es mejor que usar solo negritas visuales.
+
+Orden Lógico: Los encabezados siguen una jerarquía clara (h1 -> h2 -> h3). Nunca saltes niveles (por ejemplo, pasar de h1 a h4).
+
+Atributos de Imagen: Dejé los campos alt descriptivos, algo vital en el desarrollo web moderno.
+
+Tabla con Estructura: Incluí <thead> y <tbody> dentro de la tabla para que sea procesada correctamente por lectores de pantalla.
+
+¡Espero que te sirva para tu viaje, Nico! ¿Necesitás que agregue alguna sección técnica más, como un formulario de contacto para otros viajeros?
